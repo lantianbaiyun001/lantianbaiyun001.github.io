@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.xxx.com/child/index.html</loc>
-    
-    <lastmod>2021-10-19</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.xxx.com/about/index.html</loc>
     
-    <lastmod>2021-10-19</lastmod>
+    <lastmod>2021-10-21</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.xxx.com/2021/05/02/linux-ctrlc-ctrlz/</loc>
     
-    <lastmod>2021-09-30</lastmod>
+    <lastmod>2021-10-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.xxx.com/child/index.html</loc>
+    
+    <lastmod>2021-10-19</lastmod>
     
   </url>
   
