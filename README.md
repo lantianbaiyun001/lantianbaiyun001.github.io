@@ -1,4 +1,4 @@
-## wow
+## 基础设置
 
 xenon-core.min.css
 
