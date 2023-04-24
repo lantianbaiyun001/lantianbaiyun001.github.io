@@ -1,5 +1,8 @@
 ## 基础设置
 
+图标
+https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free
+
 xenon-core.min.css
 侧边栏宽：
 .sidebar-menu{display:table-cell;position:relative;width:280px;
@@ -10,5 +13,7 @@ nav.min.css
 关于本站
 submit-tag{margin-top:50px;}
 
-图标
-https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free
+version20230406
+
+------
+
