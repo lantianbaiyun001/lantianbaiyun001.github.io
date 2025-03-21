@@ -18,8 +18,8 @@
   
   <entry>
     <title>测试MD文件</title>
-    <link href="https://www.xxx.com/posts/123ceshi/"/>
-    <id>https://www.xxx.com/posts/123ceshi/</id>
+    <link href="https://www.xxx.com/posts/%E6%B5%8B%E8%AF%95MD%E6%96%87%E4%BB%B6/"/>
+    <id>https://www.xxx.com/posts/%E6%B5%8B%E8%AF%95MD%E6%96%87%E4%BB%B6/</id>
     <published>2025-03-20T16:00:00.000Z</published>
     <updated>2025-03-21T03:28:28.423Z</updated>
     
@@ -35,8 +35,8 @@
   
   <entry>
     <title></title>
-    <link href="https://www.xxx.com/posts/123ceshi/"/>
-    <id>https://www.xxx.com/posts/123ceshi/</id>
+    <link href="https://www.xxx.com/posts/%E6%B5%8B%E8%AF%95MD%E6%96%87%E4%BB%B6/"/>
+    <id>https://www.xxx.com/posts/%E6%B5%8B%E8%AF%95MD%E6%96%87%E4%BB%B6/</id>
     <published>2023-04-21T03:22:30.564Z</published>
     <updated>2021-11-22T01:21:49.935Z</updated>
     
