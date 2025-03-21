@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.xxx.com/SeaTestMDFile/first.html</loc>
+    
+    <lastmod>2025-03-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.xxx.com/SeaTestMDFile/%E6%B5%8B%E8%AF%95.html</loc>
+    
+    <lastmod>2024-08-22</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.xxx.com/child/index.html</loc>
     
     <lastmod>2021-11-23</lastmod>
