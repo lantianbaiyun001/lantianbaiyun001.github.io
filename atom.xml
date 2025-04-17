@@ -6,7 +6,7 @@
   <link href="https://www.xxx.com/atom.xml" rel="self"/>
   
   <link href="https://www.xxx.com/"/>
-  <updated>2025-03-27T08:05:51.704Z</updated>
+  <updated>2025-04-17T01:38:02.509Z</updated>
   <id>https://www.xxx.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客系统核心区别一览</title>
+    <link href="https://www.xxx.com/posts/%E5%85%AD%E5%A4%A7%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F%E6%A0%B8%E5%BF%83%E5%8C%BA%E5%88%AB%E4%B8%80%E8%A7%88(2025%E7%89%88)/"/>
+    <id>https://www.xxx.com/posts/%E5%85%AD%E5%A4%A7%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F%E6%A0%B8%E5%BF%83%E5%8C%BA%E5%88%AB%E4%B8%80%E8%A7%88(2025%E7%89%88)/</id>
+    <published>2025-04-16T09:46:33.099Z</published>
+    <updated>2025-04-17T01:38:02.509Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="🧠-六大博客系统核心区别一览（2025版）"><a href="#🧠-六大博客系统核心区别一览（2025版）" class="headerlink" title="🧠 六大博客系统核心区别一览（2025版）"></a>🧠 六大博客系统核心区别一览（2025版）</h2><table><thead><tr><th>项目 / 特性</th><th>🟢 <strong>Hexo</strong></th><th>🔵 <strong>Hugo</strong></th><th>🟤 <strong>Typecho</strong></th><th>🔶 <strong>WordPress</strong></th><th>✅ <strong>Halo</strong></th><th>⚫ <strong>Ghost</strong></th></tr></thead><tbody><tr><td>💡 架构类型</td><td>静态博客生成器</td><td>静态博客生成器</td><td>动态博客系统</td><td>动态 CMS</td><td>动态博客系统</td><td>动态内容创作平台</td></tr><tr><td>⚙️ 技术栈</td><td>Node.js + Markdown</td><td>Go + Markdown</td><td>PHP + MySQL/SQLite</td><td>PHP + MySQL</td><td>Java (Spring Boot)</td><td>Node.js + SQLite/MySQL</td></tr><tr><td>🖥️ 写作方式</td><td>本地写 Markdown + 部署</td><td>本地写 Markdown + 编译</td><td>网页后台 / Markdown</td><td>网页后台 / Gutenberg</td><td>所见即所得后台</td><td>专业富文本后台</td></tr><tr><td>🛠️ 后台支持</td><td>❌ 无后台</td><td>❌ 无后台</td><td>✅ 极简后台</td><td>✅ 功能齐全</td><td>✅ 现代化后台</td><td>✅ 专业内容管理</td></tr><tr><td>🧾 数据存储</td><td>本地文件</td><td>本地文件</td><td>数据库存储</td><td>数据库存储</td><td>数据库存储</td><td>数据库存储</td></tr><tr><td>💾 部署方式</td><td>GitHub Pages / Vercel</td><td>GitHub Pages / Netlify</td><td>宝塔/VPS/虚机</td><td>宝塔/VPS/Docker</td><td>宝塔/VPS/Docker</td><td>VPS/Docker/Ghost Pro SaaS</td></tr><tr><td>⚡ 编译速度</td><td>中（秒级）</td><td>🚀 极快（毫秒级）</td><td>动态实时</td><td>中等（强大但笨重）</td><td>中等</td><td>中（需常驻进程）</td></tr><tr><td>🎨 主题生态</td><td>非常丰富（Next、Butterfly）</td><td>多（PaperMod、Even 等）</td><td>少，需手动修改</td><td>超多（数万个）</td><td>有点少（逐步丰富）</td><td>少但高质，适配现代写作</td></tr><tr><td>🔌 插件 / 扩展</td><td>支持（手动集成）</td><td>支持（扩展需编写）</td><td>插件少</td><td>插件生态爆炸💥</td><td>有插件（Halo 2+）</td><td>支持扩展、API、会员系统</td></tr><tr><td>🌐 响应式支持</td><td>✅ 支持</td><td>✅ 支持</td><td>✅ 支持</td><td>✅ 支持</td><td>✅ 支持</td><td>✅ 支持</td></tr><tr><td>📱 写作体验</td><td>编辑器/终端 + Git</td><td>编辑器/终端 + Git</td><td>简单后台 + Markdown</td><td>Block 编辑器 / TinyMCE</td><td>富文本 + Markdown</td><td>专业写作体验 + 卡片化</td></tr><tr><td>🔐 是否开源</td><td>✅ 开源</td><td>✅ 开源</td><td>✅ 开源</td><td>✅ 开源</td><td>✅ 开源</td><td>✅ 开源 + SaaS 可选</td></tr><tr><td>💰 商业化或收费</td><td>❌ 无</td><td>❌ 无</td><td>❌ 无</td><td>❌ 自托管免费</td><td>❌ 免费</td><td>Ghost Pro 为收费服务</td></tr><tr><td>🔧 安装难度</td><td>⭐⭐</td><td>⭐⭐</td><td>⭐⭐⭐</td><td>⭐⭐（有向导）</td><td>⭐⭐⭐⭐（需服务器）</td><td>⭐⭐⭐（需环境 + 配置）</td></tr><tr><td>🧑‍💻 适合人群</td><td>极客 / 程序员</td><td>极客 / 文档创作</td><td>博客爱好者 / 极简党</td><td>所有人 / 内容型博主</td><td>想做后台控制 / 微型CMS</td><td>写作、订阅、商业化作者</td></tr></tbody></table><hr><h2 id="✅-简单推荐逻辑："><a href="#✅-简单推荐逻辑：" class="headerlink" title="✅ 简单推荐逻辑："></a>✅ 简单推荐逻辑：</h2><table><thead><tr><th>你是谁？</th><th>推荐使用</th></tr></thead><tbody><tr><td>💻 想自己写 Markdown、用 Git 发布</td><td>🟢 Hexo / 🔵 Hugo</td></tr><tr><td>🧘 想写就写、后台管理简单</td><td>🟤 Typecho / 🔶 WordPress</td></tr><tr><td>📖 想给读者订阅、发邮件、做内容变现</td><td>⚫ Ghost</td></tr><tr><td>🛠️ 想有一个 Java 后台、控制后台内容结构</td><td>✅ Halo</td></tr><tr><td>🏗️ 要做企业官网 / 商业博客</td><td>🔶 WordPress</td></tr><tr><td>🧙 技术控 / 想自定义一切</td><td>🔵 Hugo（性能王）</td></tr></tbody></table><h3 id="🧭-总结一句话："><a href="#🧭-总结一句话：" class="headerlink" title="🧭 总结一句话："></a>🧭 总结一句话：</h3><blockquote><p>🟢 Hexo / 🔵 Hugo 适合喜欢控制 &amp; 静态部署的大人，<br> 🟤 Typecho / 🔶 WordPress 适合“我要写，不要管”，<br> ✅ Halo / ⚫ Ghost 是进阶玩家的舞台，后台强，现代感足，扩展性强。</p></blockquote><p>是否需要我为您做一个「可选部署+推荐风格+自动化脚本」的开站配置包？<br> 一句话，我为您打开六大门派的任意门！🛠️✨</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>解决方案</title>
